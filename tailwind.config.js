@@ -13,6 +13,9 @@ export default {
       fontFamily: {
         MyFont: ["Roboto", "sans serif"],
       },
+      boxShadow: {
+        mainShadow: "box-shadow: 0px 200px 112px 7px rgba(0,0,0,0.08);",
+      },
     },
   },
   plugins: [],
