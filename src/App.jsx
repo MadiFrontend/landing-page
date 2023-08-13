@@ -2,6 +2,8 @@ import "./App.css";
 import Header from "./Components/Header/Header";
 import PartnerLogos from "./Components/PartnerLogos/PartnerLogos";
 import Services from "./Components/Services/Services";
+import NavbarCard from "./Components/Cards/NavbarCard";
+import Carousel from "./Components/Cards/Carousel";
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
         <Header></Header>
         <PartnerLogos></PartnerLogos>
         <Services></Services>
+        
+        <Carousel></Carousel>
       </div>
     </div>
   );

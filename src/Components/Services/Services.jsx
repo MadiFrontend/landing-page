@@ -5,7 +5,7 @@ import cardico2 from "../../assets/cardico2.png";
 function Services() {
   return (
     <div className="h-cardsHeight w-full  mt-16 flex items-center justify-between">
-      <div className="">
+      <div>
         <h2 className="text-myPink text-xl font-semibold">SERVICES</h2>
         <p className="font-bold text-4xl mt-3">
           Our Top Value

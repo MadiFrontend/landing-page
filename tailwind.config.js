@@ -14,7 +14,7 @@ export default {
         MyFont: ["Roboto", "sans serif"],
       },
       boxShadow: {
-        mainShadow: "1px 29px 73px 3px rgba(0,0,0,0.24)",
+        mainShadow: "1px 29px 73px 3px rgba(0,0,0,0.18)",
       },
       height: {
         cardsHeight: "440px",
