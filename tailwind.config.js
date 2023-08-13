@@ -16,6 +16,9 @@ export default {
       boxShadow: {
         mainShadow: "box-shadow: 0px 200px 112px 7px rgba(0,0,0,0.08);",
       },
+      height: {
+        cardsHeight: "440px;",
+      },
     },
   },
   plugins: [],

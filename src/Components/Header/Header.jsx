@@ -26,8 +26,9 @@ function Header() {
           </p>
           <div className="flex mt-8 font-bold text-xs">
             <Button className="shadow-2xl">Get Started</Button>
-            <Button className="ml-8 bg-transparent text-gray-800 flex items-center border border-gray-300">
-              <AiFillPlayCircle className="mr-2 text-xl text-btnColor" /> Watch Demo
+            <Button className="ml-8 bg-transparent !text-gray-800 flex items-center border border-gray-300">
+              <AiFillPlayCircle className="mr-2 text-xl text-btnColor" /> Watch
+              Demo
             </Button>
           </div>
         </div>
