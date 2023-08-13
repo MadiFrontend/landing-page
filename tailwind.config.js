@@ -14,10 +14,10 @@ export default {
         MyFont: ["Roboto", "sans serif"],
       },
       boxShadow: {
-        mainShadow: "box-shadow: 0px 200px 112px 7px rgba(0,0,0,0.08);",
+        mainShadow: "1px 29px 73px 3px rgba(0,0,0,0.24)",
       },
       height: {
-        cardsHeight: "440px;",
+        cardsHeight: "440px",
       },
     },
   },
