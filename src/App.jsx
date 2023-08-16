@@ -5,6 +5,7 @@ import Services from "./Components/Services/Services";
 import Carousel from "./Components/Cards/Carousel";
 import Girl from "./Components/Girl/Girl";
 import OfferServices from "./Components/OfferServices/OfferServices";
+import Subscribe from "./Components/Subscribe/Subscribe";
 
 function App() {
   return (
@@ -17,7 +18,9 @@ function App() {
       </div>
       <Girl />
       <OfferServices></OfferServices>
-      <div className="w-4/5 my-0 mx-auto"></div>
+      <div className="w-4/5 my-0 mx-auto">
+        <Subscribe></Subscribe>
+      </div>
     </div>
   );
 }
