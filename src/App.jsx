@@ -6,6 +6,7 @@ import Carousel from "./Components/Cards/Carousel";
 import Girl from "./Components/Girl/Girl";
 import OfferServices from "./Components/OfferServices/OfferServices";
 import Subscribe from "./Components/Subscribe/Subscribe";
+import MainFooter from "./Components/Footer/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <OfferServices></OfferServices>
       <div className="w-4/5 my-0 mx-auto">
         <Subscribe></Subscribe>
+        <MainFooter></MainFooter>
       </div>
     </div>
   );
