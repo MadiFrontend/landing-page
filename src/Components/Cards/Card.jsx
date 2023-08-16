@@ -4,7 +4,7 @@ import ca from "../../assets/cardPic.png";
 
 function Card(props) {
   return (
-    <div className="w-[320px] h-[530px] m-4 shadow-lg rounded-[10%]">
+    <div className="w-[320px] h-[530px] m-4 shadow-lg rounded-[10%] bg-white">
       <img src={ca} alt="" />
       <div className="h-[30%] flex flex-col justify-between mt-[1.5rem] mx-8">
         <div className="flex justify-between">

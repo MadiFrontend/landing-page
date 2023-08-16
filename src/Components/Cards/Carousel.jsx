@@ -1,7 +1,7 @@
 import Card from "./Card";
 import NavbarCard from "./NavbarCard";
 
-function Carousel(props) {
+function Carousel() {
   const scrollLeft = () => {
     document.getElementById("element").scrollLeft -= 800;
   };
