@@ -4,6 +4,7 @@ import PartnerLogos from "./Components/PartnerLogos/PartnerLogos";
 import Services from "./Components/Services/Services";
 import Carousel from "./Components/Cards/Carousel";
 import Girl from "./Components/Girl/Girl";
+import OfferServices from "./Components/OfferServices/OfferServices";
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
         <Carousel></Carousel>
       </div>
       <Girl />
+      <OfferServices></OfferServices>
+      <div className="w-4/5 my-0 mx-auto"></div>
     </div>
   );
 }
