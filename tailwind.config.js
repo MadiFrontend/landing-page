@@ -9,6 +9,7 @@ export default {
       colors: {
         btnColor: "#5D50C6",
         myPink: "#F85E9F",
+        myOrange: "#FF5722",
       },
       fontFamily: {
         MyFont: ["Roboto", "sans serif"],
