@@ -1,4 +1,4 @@
-import group from "../../assets/group.png";
+import group from "../../assets/Group.png";
 import OfferServicesCard from "./OfferServicesCard";
 import { HiLocationMarker } from "react-icons/hi";
 import { BsFillCalendar2Fill } from "react-icons/bs";
