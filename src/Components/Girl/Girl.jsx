@@ -1,4 +1,4 @@
-import girl from "../../assets/Girl.png";
+import girl from "../../assets/girl.png";
 
 function Girl() {
   return (
